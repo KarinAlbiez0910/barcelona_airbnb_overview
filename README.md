@@ -1,4 +1,4 @@
-Write-a-Data-Science-Blog-Post
+**Write-a-Data-Science-Blog-Post**
 
 Medium Blog Post
 
