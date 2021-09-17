@@ -1,6 +1,6 @@
 # **Write-a-Data-Science-Blog-Post**
 
-## **Medium Blog Post**
+## 1. **Medium Blog Post**
 
 Here is the Medium blog post I have written: https://medium.com/@myalbiez/ever-wanted-to-offer-an-airbnb-apartment-in-barcelona-3198aa8aec8e
 
@@ -15,7 +15,7 @@ The dataset describes the listing activities of homestays in Barcelona, Spain.
 The data is drawn from http://insideairbnb.com/get-the-data.html, Barcelona, Catalonia, Spain: listings.csv.gz
 
 
-This project focuses on answering following questions: 
+This project focuses on answering the following questions: 
 
 1. What are the top 15 amenities in terms of frequency (=amenities I should consider offering)?
 2. What are the top ten locations in terms of popularity?
@@ -28,9 +28,13 @@ Python3
 Here are the libraries I used in my Jupyter Notebook:
 
 numpy
+
 pandas
+
 sklearn
+
 seaborn
+
 matplotlib.pyplot
 
 
