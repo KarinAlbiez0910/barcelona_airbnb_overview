@@ -44,8 +44,11 @@ Jupyter notebook
 listings.csv.gz
 Original dataset in csv.gz format
 
-Summary of the results:
+##Summary of the results:
 1. The top amenities in terms of frequency are (with respective counts): 
 {'Wifi': 16414, 'Essentials': 15511, 'Long term stays allowed': 15135, 'Kitchen': 14954, 'Hangers': 13830, 'Washer': 13273, 'Hair dryer': 13190, 'Heating': 13071, 'Iron': 12708, 'Air conditioning': 10924, 'Hot water': 10861, 'TV': 10776, 'Shampoo': 10116, 'Dishes and silverware': 9371, 'Elevator': 9323}
 2. The top neighbourhoods in terms of ratings are the Eixample, Ciutat Vella (Old Town) and Gràcia
 3. The factors that drive a high rental price cannot be clearly discerned.
+
+##Licensing, Authors, Acknowledgements
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Airbnb link available here: http://insideairbnb.com/get-the-data.html.
