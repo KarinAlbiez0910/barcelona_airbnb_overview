@@ -41,11 +41,9 @@ matplotlib.pyplot
 
 
 ## **File Descriptions**
-write_a_data_science_blogpost.ipynb
-Jupyter notebook
+write_a_data_science_blogpost.ipynb: Jupyter notebook
 
-listings.csv.gz
-Original dataset in csv.gz format
+listings.csv.gz: original dataset in csv.gz format
 
 ## **Summary of the results**
 1. The top amenities in terms of frequency are (with respective counts): 
