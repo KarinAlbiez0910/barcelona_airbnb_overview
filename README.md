@@ -1,8 +1,10 @@
 # **Write-a-Data-Science-Blog-Post**
 
-## 1. **Medium Blog Post**
+## **Medium Blog Post**
 
-Here is the Medium blog post I have written: https://medium.com/@myalbiez/ever-wanted-to-offer-an-airbnb-apartment-in-barcelona-3198aa8aec8e
+Here is the Medium blog post I have written: 
+
+https://medium.com/@myalbiez/ever-wanted-to-offer-an-airbnb-apartment-in-barcelona-3198aa8aec8e
 
 ## **Project Motivation**
 
@@ -23,7 +25,7 @@ This project focuses on answering the following questions:
 
 
 ## **Libraries**
-Python3
+Python3:
 
 Here are the libraries I used in my Jupyter Notebook:
 
